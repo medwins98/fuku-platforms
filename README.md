@@ -1,2 +1,2 @@
-# laughing-journey
+# Fuku Platforms
 Personal project
